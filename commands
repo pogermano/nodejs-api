@@ -1,0 +1,4 @@
+yarn add typescript --dev
+yarn add module-alias
+yarn add -D @types/node
+yarn add -D @types/module-alias
