@@ -2,3 +2,5 @@ yarn add typescript --dev
 yarn add module-alias
 yarn add -D @types/node
 yarn add -D @types/module-alias
+yarn add -D @typescript-eslint/eslint-plugin eslint @typescript-eslint/parser
+yarn lint
